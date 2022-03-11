@@ -1,0 +1,189 @@
+{
+  "gridCount": 14,
+  "words": [
+    {
+      "id": 0,
+      "index": 1,
+      "startIndex": 0,
+      "actualWord": "SNOWMOBILE",
+      "direction": "ACROSS",
+      "clue": "Motorized winter vehicle"
+    },
+    {
+      "id": 1,
+      "index": 2,
+      "startIndex": 3,
+      "actualWord": "WEST",
+      "direction": "DOWN",
+      "clue": "Musical, \"____ Side Story\""
+    },
+    {
+      "id": 2,
+      "index": 3,
+      "startIndex": 9,
+      "actualWord": "ELEVATOR",
+      "direction": "DOWN",
+      "clue": "People or goods lift"
+    },
+    {
+      "id": 3,
+      "index": 4,
+      "startIndex": 11,
+      "actualWord": "TOURIST",
+      "direction": "DOWN",
+      "clue": "Sightseer or overseas visitor"
+    },
+    {
+      "id": 4,
+      "index": 5,
+      "startIndex": 27,
+      "actualWord": "BINGO",
+      "direction": "DOWN",
+      "clue": "Game of match with a winning call"
+    },
+    {
+      "id": 5,
+      "index": 6,
+      "startIndex": 28,
+      "actualWord": "STILETTO",
+      "direction": "DOWN",
+      "clue": "Long, thin, high heel"
+    },
+    {
+      "id": 6,
+      "index": 7,
+      "startIndex": 34,
+      "actualWord": "VINE",
+      "direction": "ACROSS",
+      "clue": "Climbing plant favored by winemakers"
+    },
+    {
+      "id": 7,
+      "index": 8,
+      "startIndex": 42,
+      "actualWord": "TARTAN",
+      "direction": "ACROSS",
+      "clue": "Pattern found on a Scottish kilt"
+    },
+    {
+      "id": 8,
+      "index": 9,
+      "startIndex": 64,
+      "actualWord": "HARING",
+      "direction": "ACROSS",
+      "clue": "NYC pop artist Keith ____"
+    },
+    {
+      "id": 9,
+      "index": 10,
+      "startIndex": 72,
+      "actualWord": "PRINCESS",
+      "direction": "DOWN",
+      "clue": "Royal daughter, e.g. Margaret, Diana or Grace"
+    },
+    {
+      "id": 10,
+      "index": 11,
+      "startIndex": 74,
+      "actualWord": "MYSTERY",
+      "direction": "DOWN",
+      "clue": "An unexplained occurence or whodunit"
+    },
+    {
+      "id": 11,
+      "index": 12,
+      "startIndex": 76,
+      "actualWord": "PUP",
+      "direction": "DOWN",
+      "clue": "Baby seal"
+    },
+    {
+      "id": 12,
+      "index": 13,
+      "startIndex": 84,
+      "actualWord": "ELROY",
+      "direction": "ACROSS",
+      "clue": "George and Judy Jetson's son"
+    },
+    {
+      "id": 13,
+      "index": 14,
+      "startIndex": 102,
+      "actualWord": "SUPPER",
+      "direction": "ACROSS",
+      "clue": "Leonardo Da Vinci's \"Last ______\""
+    },
+    {
+      "id": 14,
+      "index": 15,
+      "startIndex": 105,
+      "actualWord": "PARASOL",
+      "direction": "DOWN",
+      "clue": "Umbrella for sunny days"
+    },
+    {
+      "id": 15,
+      "index": 16,
+      "startIndex": 111,
+      "actualWord": "MARKETS",
+      "direction": "DOWN",
+      "clue": "Food or goods trading places"
+    },
+    {
+      "id": 16,
+      "index": 17,
+      "startIndex": 122,
+      "actualWord": "FOSSIL",
+      "direction": "DOWN",
+      "clue": "Relic preserved in rock"
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "startIndex": 122,
+      "actualWord": "FETA",
+      "direction": "ACROSS",
+      "clue": "Salty, white goat or sheeps milk cheese"
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "startIndex": 126,
+      "actualWord": "ORCHESTRA",
+      "direction": "ACROSS",
+      "clue": "Group of musicians led by a conductor"
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "startIndex": 150,
+      "actualWord": "SILK",
+      "direction": "ACROSS",
+      "clue": "Luxurious fibre derived from cocoons"
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "startIndex": 154,
+      "actualWord": "ESSAY",
+      "direction": "ACROSS",
+      "clue": "Short piece of writing on a particular subject"
+    },
+    {
+      "id": 21,
+      "index": 20,
+      "startIndex": 154,
+      "actualWord": "EVE",
+      "direction": "DOWN",
+      "clue": "Creation story couple, Adam and ___"
+    },
+    {
+      "id": 22,
+      "index": 21,
+      "startIndex": 173,
+      "actualWord": "CROATIA",
+      "direction": "ACROSS",
+      "clue": "European country with capital Zagreb"
+    }
+  ]
+}
